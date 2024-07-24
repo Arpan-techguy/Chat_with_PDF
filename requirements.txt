@@ -1,4 +1,4 @@
-python==3.10
+python
 langchain
 python-dotenv
 ipykernel
